@@ -1,0 +1,601 @@
+:: StoryTitle
+Kalbin Bahçesi
+
+:: StoryData
+{
+  "ifid": "8F7AEE6B-5BC5-4E87-9A57-32B4C34BA233",
+  "format": "Harlowe",
+  "format-version": "3.3.3",
+  "start": "Beginning",
+  "zoom": 1
+}
+
+:: Beginning
+# Kalbin Bahçesi
+
+Uzak olmayan bir diyarda, Kerim adında küçük bir çocuk yaşardı. Köyünde pek çok soru sormasıyla tanınırdı—yıldızlar hakkında, rüyalar hakkında, rüzgârın neden bir o yana bir bu yana estiği hakkında. Ama Kerim en çok, Fısıldayan Dağ'ın tepesinde var olduğu söylenen gizli bahçeyi merak ederdi.
+
+Bir akşam, Kerim yaşlı bir zeytin ağacının altında dedesiyle otururken, cesaretini toplayıp sordu:
+
+[[Gizli bahçeyi sor->Ask Grandfather]]
+[[Önce Fısıldayan Dağ hakkında sor->About Mountain]]
+
+:: Ask Grandfather
+"Dede," diye sordu Kerim, "gizli bahçe gerçekten var mı?"
+
+Dedesinin gözleri, sessiz bir gölde yansıyan yıldızlar gibi parıldadı. "Bahçe senin kalbin kadar gerçek, küçüğüm. Ama onu bulmak kolay değil."
+
+"Bana oraya nasıl gidileceğini söyler misin?" diye yalvardı Kerim.
+
+Dedesi gülümsedi. "Sana özel bir tohum ve dört pınara giden yolu tarif edebilirim, ama yolculuğun kendisi sadece senin olmalı."
+
+[[Tohumu kabul et ve yolculuğa başla->Accept Seed]]
+[[Bahçe hakkında daha fazla soru sor->More Garden Questions]]
+
+:: About Mountain
+"Dede, Fısıldayan Dağ'ı fısıldatan nedir?" diye sordu Kerim.
+
+Dedesi düşünceli bir şekilde sakalını okşadı. "Dağ, ona tırmananların sırlarını fısıldar. Bazıları bunun sadece taşlar arasından geçen rüzgâr olduğunu söyler, ama diğerleri dağın kendisinin canlı olduğuna, dinlemeye hazır olanlara rehberlik ettiğine inanır."
+
+"Ve gizli bahçe orada mı?" diye sordu Kerim, merakını daha fazla tutamayarak.
+
+Dedesi başını salladı. "Bahçe tepede, evet. Ama onu bulmak, sadece tırmanmak kadar basit değil. Yol boyunca dört pınarı ziyaret etmelisin."
+
+[[Doğrudan bahçeyi sor->Ask Grandfather]]
+[[Dört pınar hakkında sor->About Springs]]
+
+:: About Springs
+"Bu dört pınar nedir, Dede?" diye sordu Kerim.
+
+"Her pınarın farklı bir özelliği var," diye açıkladı Dedesi. "Dürüst Gözyaşları Pınarı, Yansıyan Işık Pınarı, Fısıldayan Rüzgârlar Pınarı ve Sıcak Işık Pınarı. Her biri seni farklı bir şekilde sınayacak ve her biri kalbinin büyümesine yardım edecek."
+
+Kerim'in gözleri heyecanla büyüdü. "Bana yolu gösterebilir misin?"
+
+"Sana özel bir tohum ve tarifleri verebilirim," dedi Dedesi, "ama yolculuğun kendisi sadece senin olmalı."
+
+[[Tohumu kabul et ve yolculuğa başla->Accept Seed]]
+[[Daha fazla soru sor->More Garden Questions]]
+
+:: More Garden Questions
+"Köyümüzden hiç kimse bahçeyi buldu mu?" diye sordu Kerim.
+
+Dedesinin gülümsemesi gizemli bir hal aldı. "Bazıları buldu. Bazıları bulamadı. Bahçe kendisini yalnızca onu gerçekten görmeye hazır olanlara gösterir."
+
+"Hazır olduğumu nasıl bileceğim?" diye merak etti Kerim.
+
+"Dört pınara yolculuk sana bunu öğretecek," diye cevapladı Dedesi. "Her pınar kalbini farklı bir şekilde hazırlar."
+
+[[Tohumu kabul et ve yolculuğa başla->Accept Seed]]
+[[Tohumun özelliği nedir diye sor->About Seed]]
+
+:: About Seed
+"Bu tohumun özelliği nedir, Dede?" diye sordu Kerim.
+
+"Bu tohum tüm olasılıkları içerir," dedi Dedesi. "Her insan için farklı büyür, kalplerinde olanı yansıtır. Her pınardan gelen su, yolculuğunun sonunda gerçek doğasını ortaya çıkarana kadar farklı şekillerde büyümesine yardımcı olacak."
+
+Kerim dedesine hayretle baktı. "Ve böylesine değerli bir şeyi bana mı veriyorsun?"
+
+Dedesinin gözleri sıcaklıkla kırıştı. "Tohum verilmek içindir, küçüğüm. Bu onun amacıdır."
+
+[[Tohumu kabul et ve yolculuğa başla->Accept Seed]]
+[[Layık olup olmadığı konusunda şüphelerini dile getir->Express Doubts]]
+
+:: Express Doubts
+"Ama Dede," dedi Kerim tereddütle, "ya böyle bir hediyeye layık değilsem? Ya başarısız olursam?"
+
+Dedesi nazikçe elini Kerim'in omzuna koydu. "Yolculuğun kendisi seni layık kılar, çocuğum. Başarısızlığa gelince—tek gerçek başarısızlık hiç başlamamak olurdu."
+
+Dedesinin sözleri Kerim'e cesaret verdi.
+
+[[Tohumu kabul et ve yolculuğa başla->Accept Seed]]
+
+:: Accept Seed
+Ertesi sabah, Dedesi minik siyah bir tohumu Kerim'in avucuna bıraktı. O kadar karanlıktı ki etrafındaki güneş ışığını emiyor gibiydi.
+
+"Bu tohum tüm olasılıkları içerir," dedi Dedesi. "Ama büyümesine yardım etmek için dağdaki dört sihirli pınarın her birini ziyaret etmelisin. Unutma—tohumu her zaman yanında tut."
+
+Kerim dikkatlice tohumu küçük bir keseye koydu ve boynuna astı. Küçük bir çantaya biraz ekmek, peynir ve su matarası koydu.
+
+[[Şafakta yola çık->Journey Begins]]
+
+:: Journey Begins
+Kerim şafakta, kalbi heyecanla dolu olarak yola çıktı. Dağa giden yol başta kolaydı—tanıdık çayırlardan ve zeytin ağaçlarının arasından kıvrılıyordu.
+
+Güneş yükseldikçe yol daha dik ve kayalık oldu. Öğleye doğru, Kerim yorgun ve susamıştı. Daha da kötüsü, başladığı mutlu düşüncelerin yerini şüpheler almıştı.
+
+"Belki de bu yolculuk çok zor," diye iç geçirdi, bir kayanın üzerine oturarak. "Belki de bahçeyi bulmak için yeterince cesur veya akıllı değilim."
+
+Bu ağır düşünceler zihnini doldururken, Kerim tuhaf bir şey fark etti—kıyafetleri, gölgeler topluyormuş gibi kararıyordu. Yukarıdaki gökyüzü bile daha az parlak görünüyordu.
+
+[[Şüphelere rağmen tırmanmaya devam et->Continue Climbing]]
+[[Daha uzun süre dinlen ve düşüncelerini topla->Rest Longer]]
+
+:: Continue Climbing
+Bu kadar kolay vazgeçmemeye kararlı olan Kerim, tırmanmaya devam etmek için kendini zorladı. Her adım bir öncekinden daha ağır hissediyordu ve kıyafetlerine yapışan gölgeler onu daha da aşağı çekiyor gibiydi.
+
+Tam yorgunluktan yığılmak üzereyken, hafif bir şırıltı sesi duydu.
+
+[[Sesi takip et->Find First Spring]]
+
+:: Rest Longer
+Kerim biraz daha dinlenmeye karar verdi. Su matarasından bir yudum içti ve bir parça peynir yedi. Otururken, gölgelerin her geçen an daha fazla ona yapıştığını fark etti.
+
+"Bu doğru olamaz," diye düşündü. "Neden burada oturdukça daha ağır hissediyorum?"
+
+Tam o anda, yakınlardan gelen hafif bir şırıltı sesi duydu.
+
+[[Sesi takip et->Find First Spring]]
+
+:: Find First Spring
+Sesi takip ederek, Kerim iki karanlık kayanın arasından kabarcıklanarak çıkan küçük bir pınar keşfetti. Yanında nazik gözlü yaşlı bir kadın oturuyordu.
+
+"Susamış görünüyorsun, genç gezgin," dedi.
+
+"Öyleyim," dedi Kerim. "Ama daha da önemlisi, içimde ağırlık hissediyorum, sanki ceplerimde taşlar taşıyormuşum gibi."
+
+Kadın bilgece başını salladı. "Burası Dürüst Gözyaşları Pınarı. Burada içmek isteyenler önce kalplerini tüm yapmacıklıktan arındırmalı."
+
+[[Kalbini nasıl boşaltacağını sor->Ask About Emptying Heart]]
+[[Sormadan direk içmeyi dene->Try To Drink Directly]]
+
+:: Ask About Emptying Heart
+"Bunu nasıl yapacağım?" diye sordu Kerim.
+
+"Sadece suya gerçek duygularını anlat—saklamaya çalıştığın tüm duyguları," diye cevap verdi yaşlı kadın.
+
+Kerim kendini savunmasız hissederek ama denemeye istekli bir şekilde pınarın yanına diz çöktü.
+
+[[Başarısızlık korkularını itiraf et->Confess Fears]]
+[[Layık olup olmadığı konusundaki şüphelerini itiraf et->Confess Doubts]]
+[[Yalnız ve korkmuş hissettiğini itiraf et->Confess Loneliness]]
+
+:: Try To Drink Directly
+Kerim, susuzluğunu hızlıca gidermek umuduyla pınar suyuna uzandı.
+
+Ancak elleri suya dokunduğunda, su ondan uzaklaşıyormuş gibi dalgalanarak geri çekildi, ta ki ulaşamayacağı bir noktaya kadar.
+
+Yaşlı kadın başını salladı. "Dürüst Gözyaşları Pınarı alınamaz—verilmelidir. Ve sadece önce dürüstlüklerini verenlere verir."
+
+Kerim anladığını belirterek ellerini geri çekti.
+
+[[Kalbini nasıl boşaltacağını sor->Ask About Emptying Heart]]
+
+:: Confess Fears
+Kerim pınarın yanına diz çöktü ve fısıldadı, "Başarısız olmaktan korkuyorum. Bahçeyi asla bulamayacağımdan korkuyorum. Dedemi ve kendimi hayal kırıklığına uğratmaktan korkuyorum."
+
+Bu korkuları ilk kez yüksek sesle söylerken gözlerinde yaşlar birikti. Yaşlar pınara düştü, dışarıya doğru yayılan minik dalgacıklar oluşturdu.
+
+Yaşlı kadın onaylarcasına başını salladı. "Devam et. Tüm korkuların gelsin."
+
+[[Daha fazla gözyaşı dök->Complete Confession]]
+
+:: Confess Doubts
+Kerim pınarın yanına diz çöktü ve fısıldadı, "Bu yolculuk için yeterince özel olduğumdan şüpheliyim. Bazen Dedemin beni torunu olduğum için mi, yoksa layık olduğum için mi seçtiğini merak ediyorum."
+
+Bu şüpheleri dile getirirken, yanaklarından pınara aşağıya doğru gözyaşları özgürce akmaya başladı.
+
+Yaşlı kadın cesaretlendirici bir şekilde başını salladı. "Evet, kalbinde gerçekten ne olduğunu söyle."
+
+[[Daha fazla gözyaşı dök->Complete Confession]]
+
+:: Confess Loneliness
+Kerim pınarın yanına diz çöktü ve fısıldadı, "Bu dağda çok yalnız hissediyorum. Tek başıma olmaktan korkuyorum ve bazen olduğumdan daha cesurmuş gibi davranıyorum."
+
+Gözyaşları şimdi hızla geldi, biri diğerinin ardından pınara damlıyordu.
+
+"Bazen keşke birisi bu yolculuğu benimle birlikte yapıyor olsa diye diliyorum," diye devam etti, sesi titreyerek.
+
+Yaşlı kadın nazikçe başını salladı. "En gerçek yolculuklar genellikle en yalnız hissedilenlerdir."
+
+[[Daha fazla gözyaşı dök->Complete Confession]]
+
+:: Complete Confession
+Kerim gözyaşlarının akmasına izin vermeye devam etti, taşıdığı tüm gizli korkuları ve endişeleri dile getirdi. Her kelimeyle, kıyafetlerine yapışan karanlık çözülüyormuş gibi daha hafif hissetti.
+
+Sonunda dökecek gözyaşı kalmadığında, yaşlı kadın gülümsedi ve ona bir bardak uzattı.
+
+"Şimdi içebilirsin."
+
+Su, Kerim'in daha önce hiç tatmadığı bir şey gibiydi—evet, serin ve ferahlatıcı, ama aynı zamanda bir şekilde gerçek, mükemmel bir gerçeğin tadı gibi. İçerken, ağırlığın tamamen kendisini terk ettiğini hissetti.
+
+"Tohumunu buraya dik," dedi kadın, pınarın yanındaki koyu toprak parçasını işaret ederek.
+
+[[Tohumu dik->Plant Seed First Spring]]
+
+:: Plant Seed First Spring
+Kerim dikkatlice boynundaki keseden siyah tohumu aldı ve pınarın yanındaki toprağa yerleştirdi. Ellerini kaparak pınardan su getirdi ve toprağı nemlendirdi.
+
+Hayretler içinde, topraktan minik bir yeşil filiz anında belirdi. Kerim büyülenmiş bir şekilde izlerken, bitkiden parmağına kadar uzanan ince bir yeşil ip fark etti, bunlar birbirine bağlıydı.
+
+"Yolculuğun gerçekten başladı," dedi kadın. "Kaybolduğunu hissettiğinde, hatırla: yol dürüstlükle başlar."
+
+[[Kadına teşekkür et ve devam et->Continue After First Spring]]
+[[Bitkiye bağlı ip hakkında sor->Ask About Thread]]
+
+:: Ask About Thread
+"Bu ip nedir?" diye sordu Kerim, narin yeşil filamenin bağlı olduğu parmağını kaldırarak.
+
+Yaşlı kadın gülümsedi. "Bu senin kalbinle ondan büyüyen şey arasındaki bağlantıdır. Kendine sadık kaldığın sürece, bu bağlantı asla kopmayacak."
+
+Kerim ipi hayretle inceledi. "Daha yükseğe tırmandıkça bağlı kalacak mı?"
+
+"Tüm yolculuğun boyunca," diye güvence verdi kadın. "Şimdi git, bir sonraki pınar bekliyor."
+
+[[Kadına teşekkür et ve devam et->Continue After First Spring]]
+
+:: Continue After First Spring
+Rehberliği için kadına teşekkür eden Kerim, dağ boyunca yolculuğuna devam etti. Şimdi daha hafif hissediyordu ve dikilen tohumdan parmağına uzanan yeşil ip ona güç veriyormuş gibiydi.
+
+Öğleden sonra boyunca tırmandı, daha yükseğe ve daha yükseğe. O gece, yıldızların altında uyudu, uzun zamandır olmadığı kadar huzurlu hissediyordu.
+
+Ertesi sabah, yükselişine devam etti. Öğleye doğru, sanki bulutlardan akan bir şelalenin beslediği geniş, gümüşi bir havuza geldi. Su o kadar durgun ve berraktı ki gökyüzünü mükemmel şekilde yansıtıyordu—o kadar mükemmel ki Kerim suyun nerede bitip gökyüzünün nerede başladığını söyleyemiyordu.
+
+Havuzun yanında Kerim'in yaşlarında bir oğlan oturuyordu, ama balık pulları gibi parıldayan giysiler giymişti.
+
+[[Çocuğa yaklaş->Approach Boy]]
+[[Önce havuzu incele->Examine Pool]]
+
+:: Approach Boy
+"Merhaba," dedi Kerim. "Burası dört pınardan biri mi?"
+
+Çocuk gülümsedi. "Burası Yansıyan Işık Pınarı. Burada içmek isteyenler önce kendilerini gerçekten oldukları gibi görmelidir."
+
+"Bu yeterince kolay görünüyor," dedi Kerim, suyun kenarına yaklaşarak.
+
+"Dikkatli bak," diye tavsiye etti çocuk.
+
+[[Havuza bak->Look Into Pool]]
+
+:: Examine Pool
+Kerim dikkatli bir şekilde havuza yaklaştı. Yüzeyi ayna gibiydi, gökyüzünü o kadar mükemmel yansıtıyordu ki hiç su olmadığı, sadece başka bir dünyaya açılan bir pencere olduğu yanılsamasını yaratıyordu.
+
+İlk pınardaki bitkiye bağlayan yeşil ipin buraya kadar uzandığını ve gümüşi sularda kaybolduğunu fark etti.
+
+Havuzu inceledikten sonra, Kerim yakınlarda oturan çocuğa döndü.
+
+"Merhaba," dedi. "Burası dört pınardan biri mi?"
+
+Çocuk başını salladı. "Burası Yansıyan Işık Pınarı. Burada içmek isteyenler önce kendilerini gerçekten oldukları gibi görmelidir."
+
+[[Havuza bak->Look Into Pool]]
+
+:: Look Into Pool
+Kerim yüzünü göreceğini umarak havuza eğildi. Bunun yerine, hareketli bir resim gibi hayatından görüntülerin su yüzeyinde oynadığını gördü—nazik olduğu zamanlar, bencil olduğu zamanlar, cesaret anları, korku anları. Kendisini başkalarının gördüğü gibi ve aynı zamanda daha önce hiç görmediği şekilde gördü.
+
+"Ah!" diye nefesini tuttu Kerim, neredeyse geriye düşerek. "İçimde böyle göründüğümü hiç bilmiyordum!"
+
+Çocuk güldü, küçük çanlar gibi bir ses. "Hiçbirimiz doğru suya bakmadan bilmeyiz. Şimdi kendini açıkça gördüğüne göre, içebilirsin."
+
+Kerim ellerini kapıp pınardan içti. Bu su, ay ışığının tadı gibi bir şeydi—serin ve gümüşi ve bir şekilde içindeki her şeyi yıkanmış gibi temiz hissettiriyordu.
+
+Şaşkınlıkla, parmağına bağlı yeşil ipin uzadığını ve şimdi havuza ulaştığını gördü. İpin suya değdiği yerde, küçük bitki daha da uzamış, hafifçe parlayan beyaz bir çiçek tomurcuğu açmıştı.
+
+"Kalp-bitkin büyüyor," dedi çocuk. "Geriye iki pınar kaldı."
+
+[[Belirli bir gösterilen anı hakkında sor->Ask About Memory]]
+[[Gördüklerini kabul et->Accept Vision]]
+
+:: Ask About Memory
+"Geçen bahar fırıncının oğluna nazik davranmadığımı gördüm," dedi Kerim, bu anıdan rahatsız olmuştu. "Kimsenin fark etmediğini düşünmüştüm."
+
+Çocuk başını salladı. "Su gerçekten ne olduğunu gösterir, kendimize ne olduğunu söylediğimizi değil."
+
+"Ama aynı zamanda düşündüğümden daha cesur olduğum zamanları da gördüm," diye ekledi Kerim.
+
+"Su bizi utandıran gerçekleri değil, tüm gerçekleri gösterir," diye cevap verdi çocuk. "Şimdi kendini tanımak için yeterince gördün mü?"
+
+[[Evet, yeterince gördüm->Accept Vision]]
+[[Havuza daha derin bak->Look Deeper]]
+
+:: Look Deeper
+Kerim kendisi hakkında daha fazla anlamak isteyerek suya daha yakından eğildi. Görüntüler değişti, hayatındaki daha derin desenleri gösterdi—merakının nasıl hem sorunlara hem de keşiflere yol açtığını, hassasiyetinin nasıl hem acı hem de içgörü getirdiğini.
+
+Tüm deneyimlerini birbirine bağlayan ipleri ve her birinin onu şu anki haline nasıl şekillendirdiğini gördü—bu yolculuğu yapabilecek bir çocuk.
+
+"Şimdi daha iyi anlıyorum," diye fısıldadı Kerim, sonunda büyüleyici sudan geri çekilerek.
+
+[[Gördüklerini kabul et->Accept Vision]]
+
+:: Accept Vision
+"Şimdi kendini açıkça gördüğüne göre," dedi çocuk, "içebilirsin."
+
+Kerim ellerini kapıp pınardan içti. Bu su, sabahın ilk nefesi gibiydi—taze ve olasılıklarla dolu. Kerim'in midesinden başına kadar yükselen minik neşe kabarcıklarıyla köpürüyor gibiydi, düşüncelerini daha net ve daha parlak hale getiriyordu.
+
+Şaşırtıcı bir şekilde, parmağına bağlı yeşil ip uzamış ve şimdi havuza ulaşmıştı. İpin suya değdiği yerde, küçük bitki daha da uzamış, güneşi takip eden altın sarısı yapraklar açan beyaz çiçek açmıştı.
+
+"Kalp-bahçen çiçek açıyor," dedi çocuk. "Geriye iki pınar kaldı."
+
+[[Bir sonraki pınara giden yolu sor->Ask For Directions]]
+[[Çocuğa teşekkür et ve devam et->Continue After Second Spring]]
+
+:: Ask For Directions
+"Bir sonraki pınarı bulmak için hangi yöne gitmeliyim?" diye sordu Kerim.
+
+Çocuk dağ patikasını yukarı işaret etti. "İpini takip et. Seni doğru yöne götürecek."
+
+Kerim yeşil filamenin gerçekten de sanki ona yolu gösteriyormuş gibi dağı yukarı uzandığını ve hafifçe parladığını fark etti.
+
+"Teşekkür ederim," dedi Kerim. "Hem su hem de bilgelik için."
+
+[[Continue After Second Spring]]
+
+:: Continue After Second Spring
+Kerim tırmanmaya devam etti, sürekli yukarı doğru kıvrılan patikayı takip ederek. Yolculuk zorluydu, ama pınarların derslerinde yeni bir güç buldu. Onu büyüyen bitkisine bağlayan ip hayatla atmak gibi görünüyordu, onu ileriye yönlendiriyordu.
+
+Bir gün daha tırmandıktan sonra, Kerim rüzgârın oyuncu desenlerle dans edip döndüğü yüksek bir platoya ulaştı. Platonun ortasında, daha önce gördüğü hiçbir pınara benzemeyen bir pınar vardı—suyu, sanki rüzgârın dansına katılmaya çalışıyormuş gibi minik fıskiyelerle zıplıyor ve sıçrıyordu.
+
+Burada, rüzgârla savrulan buğday gibi hareket eden saçları olan bir kız kamış flüt çalarak oturuyordu. Melodi pınar suyunun daha da yükseğe sıçramasını sağlıyor gibiydi.
+
+[[Kıza yaklaş->Approach Girl]]
+[[Uzaktan müziği dinle->Listen To Music]]
+
+:: Listen To Music
+Kerim durdu, etkileyici melodinin büyüsüne kapılmıştı. Müzik doğrudan kalbine konuşuyor gibiydi, kelimeler olmadan hikayeler anlatıyordu. Notalar rüzgârla dans ediyordu, uçuştaki kuşları ve sonbahardaki yaprakları hatırlatan desenler oluşturuyordu.
+
+Dinlerken, Kerim pınardaki suyun müzikle mükemmel bir uyum içinde dans ettiğini fark etti, notalar yükseldiğinde daha yükseğe sıçrıyor, melodi yumuşadığında hafifçe dalgalanıyordu.
+
+Bir süre dinledikten sonra, kıza yaklaştı.
+
+[[Kıza yaklaş->Approach Girl]]
+
+:: Approach Girl
+"Bu güzel bir müzik," dedi Kerim, kız çalmayı durdurduğunda.
+
+Kız gülümsedi, flütünü indirerek. "Fısıldayan Rüzgârlar Pınarı'na hoş geldin. Burada içmek isteyenler önce en sessiz sesi dinlemeyi öğrenmelidir."
+
+"Hangi ses o?" diye sordu Kerim.
+
+"Kelimeler olmadan konuşan ses," diye cevap verdi, gizemli bir şekilde gülümseyerek. "Benimle otur ve çok sessiz ol."
+
+[[Otur ve dinlemeye çalış->Sit And Listen]]
+[[Önce daha fazla rehberlik iste->Ask For Listening Guidance]]
+
+:: Ask For Listening Guidance
+"Bu sesi duyduğumu nasıl bileceğim?" diye sordu Kerim, emin olmayarak.
+
+Kızın gözleri parıldadı. "Herkes için farklıdır. Bazıları müzik olarak duyar, diğerleri nazik bir mırıltı olarak. Ama hepsi geldiğinde tanır—o en çok ev gibi hissettiren sestir."
+
+Kerim, biraz daha iyi anlayarak başını salladı.
+
+[[Otur ve dinlemeye çalış->Sit And Listen]]
+
+:: Sit And Listen
+Kerim kızın yanına bağdaş kurarak oturdu. Başta, sadece rüzgârı ve kendi nefesini duydu. Zihni yolculuğu, önceki pınarlar ve ileride ne olabileceği hakkında düşüncelerle doluydu.
+
+[[Zihni sakinleştirmeye odaklan->Quiet Mind]]
+[[Rüzgârın ötesini dinlemeye çalış->Listen Beyond Wind]]
+
+:: Quiet Mind
+Kerim gözlerini kapattı ve meşgul düşüncelerini sakinleştirmeye odaklandı. Onları rüzgârla nazikçe uzağa üflenen yapraklar olarak hayal etti, zihnini berrak ve sessiz bırakarak.
+
+Yavaş yavaş, kafasındaki konuşmalar azaldıkça, başka bir şeyi fark etmeye başladı—her yerden ve hiçbir yerden geliyor gibi görünen nazik bir mırıltı.
+
+[[Mırıltıyı dinle->Hear Heart Voice]]
+
+:: Listen Beyond Wind
+Kerim rüzgârın sesinin ötesini dinlemeye çalıştı, daha derin bir şey arıyordu. Sesler arasındaki boşluklara odaklandı—esinler arasındaki sessiz anlar, kızın daha önceki melodisindeki duraklamalar.
+
+Bu boşluklarda, yavaş yavaş içindeki bir şeyle rezonansa giren nazik bir mırıltının farkına vardı.
+
+[[Mırıltıyı dinle->Hear Heart Voice]]
+
+:: Hear Heart Voice
+"Duyuyorum!" diye heyecanla fısıldadı. "Kelimesiz bir şarkı gibi!"
+
+Kız başını salladı. "Bu, daha yüksek sesli düşüncelerle bastırılmadığında kendi kalbinin sesidir. Şimdi içebilirsin."
+
+Bu su sabahın ilk nefesi gibiydi—taze ve olasılık dolu. Kerim'in midesinden başına kadar yükselen ve düşüncelerini daha net ve daha parlak hale getiren minik neşe kabarcıklarıyla köpürüyor gibiydi.
+
+Yeşil ip şimdi platonun üzerine uzanıyordu ve pınara değdiği yerde, bitki daha da uzamıştı. Beyaz çiçek açılmış, güneşi takip eden altın sarısı yapraklar ortaya çıkarmıştı.
+
+"Kalp-bahçen çiçek açıyor," dedi kız. "Sadece bir pınar kaldı."
+
+[[Son pınar hakkında sor->Ask About Final Spring]]
+[[Kıza teşekkür et ve devam et->Continue After Third Spring]]
+
+:: Ask About Final Spring
+"Son pınarda ne beklemeliyim?" diye sordu Kerim.
+
+Kız buğday rengindeki saçının bir tutamını döndürdü. "Son pınar en zorlu ve en ödüllendirici olanıdır. En değerli tuttuğumuz şeyi ister."
+
+Kerim hafifçe kaşlarını çattı. "Bu zor görünüyor."
+
+"Tüm değerli yolculuklar öyledir," dedi basitçe. "Ama zaten çok şey öğrendin. Pınarların sana öğrettiklerine güven."
+
+[[Kıza teşekkür et ve devam et->Continue After Third Spring]]
+
+:: Continue After Third Spring
+Kerim kıza teşekkür etti ve yolculuğuna devam etti. Daha yükseğe tırmandıkça yol daha dik ve daha zor hale geldi. Hava ince ve keskin oldu, her nefesi bilinçli bir çaba haline getirdi.
+
+Soğuk rüzgârlar onu savurdu ve birkaç kez gevşek taşlarda kaydı. Ama her vazgeçmek istediğinde, büyüyen bitkisine bağlayan ipe bakıp ne kadar yol kat ettiğinden güç alıyordu.
+
+Tam bir adım daha atamayacağını düşündüğünde, daha önce hiç görmediği en güzel altın-kırmızı ışığın döküldüğü küçük bir mağaraya ulaştı.
+
+Mağaranın içinde, sanki sıvı güneş ışığı içeriyormuş gibi parlayan bir pınar vardı. Yanında bir insan değil, parlak tüyleri olan küçük kırmızı bir kuş oturuyordu.
+
+[[Kuşa yaklaş->Approach Bird]]
+[[Önce pınarda ısın->Warm By Spring]]
+
+:: Warm By Spring
+Tırmanıştan bitkin, Kerim parlayan pınara daha yaklaştı. Sıcaklığı onu hemen sardı, yorgun kaslarını rahatlattı ve soğuk parmaklarına yeniden his getirdi.
+
+Isındıktan sonra, dikkatini onu parlak, zeki gözlerle izleyen küçük kırmızı kuşa çevirdi.
+
+[[Kuşa yaklaş->Approach Bird]]
+
+:: Approach Bird
+"Küçük gezgin," diye cıvıldadı kuş, "Sıcak Işık Pınarı'na ulaştın. Burada içmek isteyenler önce en çok almak istedikleri şeyi vermelidir."
+
+Kerim kuşun konuşmasını duymaktan şaşırdı ama saygıyla cevap verdi. "Bu pınarı bulmak için uzun yol kat ettim."
+
+Kuş tüylerini kabarttı. "Gerçekten. Ve şimdi son sınavla karşı karşıyasın. Söyle bana, en çok neyi almak istersin?"
+
+[[Bilgelik dile->Wish Knowledge]]
+[[Mutluluk dile->Wish Happiness]]
+[[Bağlantı dile->Wish Connection]]
+
+:: Wish Knowledge
+"Bilgelik istiyorum," dedi Kerim dikkatle düşündükten sonra. "Dünyayı ve içindeki yerimi anlamak için."
+
+Kuş başını eğdi. "Değerli bir dilek. Şimdi almadan önce bilgelik vermelisin."
+
+Kerim bu meydan okumayı düşündü. Ne gibi bir bilgelik sunabilirdi ki?
+
+[[Önceki pınarlarda öğrendiklerini paylaş->Share Spring Lessons]]
+[[Köyünden bilgileri paylaş->Share Village Knowledge]]
+
+:: Share Spring Lessons
+"Dürüstlüğün kalbi hafifletttiğini öğrendim," diye başladı Kerim, "kendini net görmenin bilgelik getirdiğini ve iç sesini dinlemenin gerçeği ortaya çıkardığını."
+
+Kuş daha yakına hopladı. "İyi. Şimdi daha derine git."
+
+Kerim daha derin bir anlayış arayarak gözlerini kapattı. "Belki... bilgelik sadece topladığımız olgular değil, kurduğumuz bağlantılardır. Bu yolculukta öğrendiğim her şey, kendimle bağlantı kurduğum için beni değiştirdi."
+
+Kuş onaylarcasına cıvıldadı. "Gerçek bilgelik verdin. Şimdi alabilirsin."
+
+[[Pınardan iç->Final Spring Drink]]
+
+:: Share Village Knowledge
+"Köyümde, kırlangıçların uçuşunu izleyerek yağmuru tahmin etmeyi biliriz," dedi Kerim. "Hangi otların yanıkları iyileştirdiğini ve hangilerinin ateşi dindirdiğini biliriz. Yıldızları açıklayan hikayeler biliriz."
+
+Kuş etkilenmemiş görünüyordu. "Bunlar olgular, bilgelik değil."
+
+Kerim daha sıkı düşündü. "O zaman belki bilgelik her şeyin bağlantılı olduğunu anlamaktır—yağmur, otlar, yıldızlar ve biz. Hiçbir şey tek başına var olmaz."
+
+Kuşun gözleri parladı. "Şimdi gerçek bilgelik vermeye başlıyorsun."
+
+[[Pınardan iç->Final Spring Drink]]
+
+:: Wish Happiness
+"Mutluluk istiyorum," dedi Kerim. "Neşe ve memnuniyet hissetmek."
+
+Kuş kanatlarını çırptı. "Yaygın bir dilek. Ama önce, almadan önce mutluluk vermelisin."
+
+Kerim hafifçe kaşlarını çattı. "Kendim henüz mutluluğa sahip değilken nasıl mutluluk verebilirim?"
+
+[[Kuşu mutlu etmeye çalış->Make Bird Happy]]
+[[Başkalarını mutlu ettiğin zamanları hatırla->Remember Making Others Happy]]
+
+:: Make Bird Happy
+Kerim küçük kırmızı kuşu neyin mutlu edebileceğini düşündü. Dedesinin gözlerinin Kerim eski şarkıları söylediğinde nasıl parladığını hatırladı.
+
+Yavaşça, ilkbahar ve yeni başlangıçlar hakkında bir köy şarkısı söylemeye başladı. Sesi mağarada tatlı bir şekilde yankılandı.
+
+Kuş nazikçe melodiye sallandı, gözleri zevkle yarı kapandı. Kerim bitirdiğinde, cıvıldadı, "Mutluluğu özgürce verdin. Şimdi alabilirsin."
+
+[[Pınardan iç->Final Spring Drink]]
+
+:: Remember Making Others Happy
+Kerim gözlerini kapattı ve başkalarına mutluluk getirdiği zamanları hatırladı—annesine dokumada yardım etmek, küçük kuzenini güldürmek için hikayeler anlatmak, yaşlı bir komşuya su getirmek.
+
+Bu anılar onu doldururken, yüzünde bir gülümseme yayıldı. "Şimdi anlıyorum ki, kendimi mutlu hissetmediğim zamanlarda bile her zaman verecek mutluluğum vardı."
+
+Kuş başını salladı. "Zaten verdiğin mutluluğu tanımak, daha fazlasını almaya layık olmaktır. İçebilirsin."
+
+[[Pınardan iç->Final Spring Drink]]
+
+:: Wish Connection
+"Bağlantı istiyorum," dedi Kerim sonunda. "Her şeye ait olduğumu ve her şeyin bana ait olduğunu hissetmek."
+
+"O zaman vermen gereken şey budur," dedi kuş.
+
+[[Kuşla bağlantı kurmaya çalış->Connect With Bird]]
+[[Etrafındaki ve içindeki her şeyle bağlantı kur->Connect With All]]
+
+:: Connect With Bird
+Kerim doğrudan küçük kırmızı kuşa baktı, parlak tüylerinin ötesinde alttaki varlığı görmeye çalışarak. Narin kanatlarla uçmanın, bu kadar küçük ama bu kadar net bir sesle şarkı söylemenin, dünyayı yüksekten görmenin nasıl bir şey olabileceğini hayal etti.
+
+"Seni görüyorum," dedi usulca. "Sadece bir kuş olarak değil, bu dünyadaki bir yol arkadaşı olarak. Benden farklı, ama bağlantılı."
+
+Kuşun gözleri parladı. "Anlamaya başlıyorsun. Ama bağlantı daha da ileriye uzanır."
+
+[[Connect With All]]
+
+:: Connect With All
+Kerim gözlerini kapattı ve kalbinin dağı, pınarları, köyünü, dedesini ve tanıştığı tüm varlıkları kapsayacak şekilde büyüdüğünü hayal etti. Hepsini sevdiğini hayal etti—yolculuğun zor kısımlarını ve güzel kısımlarını, korkuları ve sevinçleri.
+
+Onu bitkisine bağlayan ipin enerjiyle titreştiğini hissetti, sanki her şeyi her şeye bağlayan geniş bir ağın parçasıymış gibi.
+
+"Evet," diye onaylayıcı bir şekilde cıvıldadı kuş. "Şimdi içebilirsin."
+
+[[Pınardan iç->Final Spring Drink]]
+
+:: Final Spring Drink
+Kerim ellerini kapıp parlayan pınardan içti. Bu su, soğuk bir gecede sıcak bir ateşin yanında oturma hissi gibiydi—rahatlatıcı ve iç ısıtan bir sıcaklık. İçini doldururken, Kerim tuhaf bir his yaşadı, sanki kalbi ateş almış gibiydi—yakan bir ateş değil, tüm vücuduna yayılan ısıtan bir ateş.
+
+Yeşil ip şimdi altın ışıkla atıyordu. Bu son pınara değdiği yerde, bitki tamamen dönüşmüştü. Sarı çiçek, sevgiyi görünür dalgalar halinde yayan muhteşem bir kızıl güle dönüşmüştü.
+
+Kerim hayret içinde izlerken, onu bitkiye bağlayan ip çoğalmaya başladı, her yöne yeni yeşil filizler gönderiyordu.
+
+[[Bahçenin büyümesini izle->Garden Grows]]
+
+:: Garden Grows
+Yeşil filizler inanılmaz bir hızla büyüdü, yollar, kemerler ve küçük açıklıklar oluşturmak için birbirine dokundu. Her renkten çiçekler açtı—beyaz zambaklar, sarı nergisler ve her yerde kızıl güller.
+
+Dakikalar içinde, Kerim kendini hayal edebileceği en güzel bahçenin ortasında durur buldu. Dört pınar bir şekilde burada bir araya gelmiş, bahçenin merkezinde yıldız gibi bir desen oluşturmuştu.
+
+"Buldun!" dedi tanıdık bir ses. Kerim döndüğünde dedesinin bahçe yollarından birinden ona doğru yürüdüğünü gördü.
+
+[[Dedeye koş->Meet Grandfather]]
+[[Dedenin oraya nasıl geldiğini sor->Question Grandfather]]
+
+:: Meet Grandfather
+"Dede!" diye seslendi Kerim, yaşlı adama sarılmak için koşarak. Onu burada, bu sihirli yerde görmenin sevinci diğer tüm soruları bastırdı.
+
+Dedesi ona sıkıca sarıldı. "Seninle gurur duyuyorum, Kerim. Birçoğunun başladığı ama azının bitirdiği yolculuğu tamamladın."
+
+"Bahçe hayal ettiğimden bile daha güzel," dedi Kerim, hayretle etrafına bakarak.
+
+[[Bahçe hakkında sor->Ask About Garden]]
+
+:: Question Grandfather
+"Dede! Buraya nasıl geldin?" diye şaşkınlıkla sordu Kerim.
+
+Yaşlı adamın gözleri parıldadı. "Her zaman buradaydım, senin gelmeni bekliyordum."
+
+"Ama anlamıyorum," dedi Kerim. "Pınarları ziyaret ederek bahçeyi yarattığımı düşünmüştüm."
+
+[[Bahçe hakkında sor->Ask About Garden]]
+
+:: Ask About Garden
+"Bahçe her zaman buradaydı," dedi Dedesi nazikçe. "Sadece önce içindeki bahçeyi bulmanı bekliyordu. Pınarlar sadece görüşünü engelleyen şeyleri temizlemene yardım etti."
+
+Kerim güzel çiçeklere, kristal pınarlara ve örülmüş yollara baktı. "Herkes bu yeri bulabilir mi?"
+
+"Herkesin keşfedeceği kendi bahçesi vardır," dedi Dedesi. "Ve bir kez bulunduğunda, bir daha asla gerçekten kaybedilemez. Köye döndüğünde bile, bahçe içinde kalacak."
+
+[[Başkalarını getirme hakkında sor->Ask About Bringing Others]]
+[[Eve götürmek için bir gül topla->Pick Rose]]
+
+:: Ask About Bringing Others
+"Başkalarını buraya getirebilir miyim?" diye sordu Kerim.
+
+Dedesi gülümsedi. "Onları doğrudan getiremezsin. Ama onlara güllerinden tohumlar verebilir ve pınarlara giden yolu tarif edebilirsin. Onların yolculuğu da seninkisi gibi kendilerine ait olmalı."
+
+Kerim, bu bilgeliği anlayarak başını salladı.
+
+[[Eve götürmek için bir gül topla->Pick Rose]]
+
+:: Pick Rose
+Kerim dikkatlice kızıl güllerden birini kopardı ve merkezinde, dedesinin ona verdiği gibi minik siyah bir tohum buldu.
+
+"Şimdi anlıyorum," dedi usulca.
+
+Hem etrafında hem de içinde olan bahçede birlikte yürürlerken, Kerim gerçek sihrin gizli bir yer bulmak değil, o yeri kalbinde taşıdığını keşfetmek olduğunu fark etti.
+
+"Tüm evren insanın içine yerleştirilmiştir ve kendini bilen, her şeyi bilir."
+
+[[Yeni bilgelikle köye dön->The End]]
+
+:: The End
+# Yolculuğun Sonu
+
+Kerim köyüne döndü, ama ayrılan çocuk değildi artık. Bahçe içinde kalmıştı, her geçen gün büyüyüp değişiyordu.
+
+Ve diğerlerini doğrudan dağdaki bahçeye götüremese de, onlara güllerinden tohumlar verebilirdi—cesaret, dürüstlük, netlik ve sevgi tohumları—ve onları kendi iç bahçelerini bulmaya yönlendirebilirdi.
+
+Çünkü o en büyük sırrı öğrenmişti: dışa doğru yolculuk her zaman içe doğru bir yolculuktur ve dünyada aradığımız hazineler, kalplerinde keşfedilmeyi bekleyen hazinelerin yansımalarıdır.
+
+# Son
+
+[[Tekrar Başla?->Beginning]]

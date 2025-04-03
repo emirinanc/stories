@@ -1,0 +1,595 @@
+:: StoryTitle
+The Garden of the Heart
+
+:: StoryData
+{
+  "ifid": "8F7AEE6B-5BC5-4E87-9A57-32B4C34BA233",
+  "format": "Harlowe",
+  "format-version": "3.3.3",
+  "start": "Beginning",
+  "zoom": 1
+}
+
+:: Beginning
+# The Garden of the Heart
+
+In a land not so far away, there lived a young boy named Karim. He was known in his village for asking many questions—about the stars, about dreams, about why the wind blows one way and then another. But most of all, Karim wondered about the secret garden that was said to exist at the top of the Whispering Mountain.
+
+One evening, as Karim sat beneath an old olive tree with his grandfather, he gathered his courage to ask:
+
+[[Ask about the secret garden->Ask Grandfather]]
+[[Ask about the Whispering Mountain first->About Mountain]]
+
+:: Ask Grandfather
+"Grandfather," Karim asked, "is the secret garden real?"
+
+Grandfather's eyes twinkled like stars reflected in a quiet pond. "The garden is as real as your heart, little one. But finding it is not easy."
+
+"Will you tell me how to get there?" Karim pleaded.
+
+Grandfather smiled. "I can give you a special seed and directions to the four springs, but the journey itself must be yours alone."
+
+[[Accept the seed and begin the journey->Accept Seed]]
+[[Ask more questions about the garden->More Garden Questions]]
+
+:: About Mountain
+"Grandfather, what makes the Whispering Mountain whisper?" Karim asked.
+
+Grandfather stroked his beard thoughtfully. "The mountain whispers the secrets of those who climb it. Some say it's just the wind through the stones, but others believe the mountain itself is alive, guiding those who are ready to listen."
+
+"And is that where the secret garden is?" Karim asked, unable to contain his curiosity any longer.
+
+Grandfather nodded. "The garden is at the top, yes. But finding it is not as simple as climbing. One must visit the four springs along the way."
+
+[[Ask about the garden directly->Ask Grandfather]]
+[[Ask about the four springs->About Springs]]
+
+:: About Springs
+"What are these four springs, Grandfather?" Karim asked.
+
+"Each spring has a different quality," Grandfather explained. "The Spring of Honest Tears, the Spring of Reflecting Light, the Spring of Whispering Winds, and the Spring of Warm Light. Each one will test you in a different way, and each one will help your heart grow."
+
+Karim's eyes widened with excitement. "Can you show me the way?"
+
+"I can give you a special seed and directions," Grandfather said, "but the journey itself must be yours alone."
+
+[[Accept the seed and begin the journey->Accept Seed]]
+[[Ask more questions->More Garden Questions]]
+
+:: More Garden Questions
+"Has anyone from our village ever found the garden?" Karim asked.
+
+Grandfather's smile turned mysterious. "Some have. Some haven't. The garden reveals itself only to those who are truly ready to see it."
+
+"How will I know if I'm ready?" Karim wondered.
+
+"That's what the journey to the four springs will teach you," Grandfather replied. "Each spring helps prepare your heart in a different way."
+
+[[Accept the seed and begin the journey->Accept Seed]]
+[[Ask what's so special about the seed->About Seed]]
+
+:: About Seed
+"What's special about this seed, Grandfather?" Karim asked.
+
+"This seed contains all possibilities," Grandfather said. "It will grow differently for each person, reflecting what's in their heart. The water from each spring will help it grow in different ways, until it reveals its true nature at the end of your journey."
+
+Karim stared at his grandfather in wonder. "And you're giving such a precious thing to me?"
+
+Grandfather's eyes crinkled with warmth. "The seed is meant to be given, little one. That is its purpose."
+
+[[Accept the seed and begin the journey->Accept Seed]]
+[[Express doubts about being worthy->Express Doubts]]
+
+:: Express Doubts
+"But Grandfather," Karim said hesitantly, "what if I'm not worthy of such a gift? What if I fail?"
+
+Grandfather placed a gentle hand on Karim's shoulder. "The journey itself is what makes you worthy, child. And as for failing—the only true failure would be never to begin."
+
+His words gave Karim courage.
+
+[[Accept the seed and begin the journey->Accept Seed]]
+
+:: Accept Seed
+The next morning, Grandfather placed a tiny black seed in Karim's palm. It was so dark it seemed to absorb the sunlight around it.
+
+"This seed contains all possibilities," Grandfather said. "But to help it grow, you must visit each of the four magical springs on the mountain. Remember—keep the seed with you always."
+
+Karim carefully tucked the seed into a small pouch and hung it around his neck. He packed a small bag with some bread, cheese, and a water flask.
+
+[[Set off at dawn->Journey Begins]]
+
+:: Journey Begins
+Karim set off at dawn, his heart full of excitement. The path to the mountain was easy at first—winding through familiar meadows and stands of olive trees. 
+
+As the sun climbed higher, the path grew steeper and rockier. By midday, Karim was tired and thirsty. Worse still, the happy thoughts he had started with were now replaced by doubts.
+
+"Perhaps this journey is too difficult," he sighed, sitting down on a boulder. "Perhaps I'm not brave enough or smart enough to find the garden."
+
+As these heavy thoughts filled his mind, Karim noticed something strange—his clothes seemed to be turning darker, as if gathering shadows. Even the sky above seemed less bright.
+
+[[Continue climbing despite the doubts->Continue Climbing]]
+[[Rest longer and collect thoughts->Rest Longer]]
+
+:: Continue Climbing
+Determined not to give up so easily, Karim pushed himself to continue climbing. Each step felt heavier than the last, and the shadows clinging to his clothes seemed to weigh him down further.
+
+Just as he was about to collapse from exhaustion, he heard a gentle trickling sound. 
+
+[[Follow the sound->Find First Spring]]
+
+:: Rest Longer
+Karim decided to rest a while longer. He took a drink from his water flask and ate a piece of cheese. As he sat, he noticed how the shadows seemed to cling to him more with each passing moment.
+
+"This can't be right," he thought. "Why do I feel heavier the longer I sit here?"
+
+Just then, he heard a gentle trickling sound coming from somewhere nearby.
+
+[[Follow the sound->Find First Spring]]
+
+:: Find First Spring
+Following the sound, Karim discovered a small spring bubbling from between two dark rocks. Beside it sat an old woman with kind eyes.
+
+"You look thirsty, young traveler," she said.
+
+"I am," said Karim. "But more than that, I feel heavy inside, like I'm carrying stones in my pockets."
+
+The woman nodded wisely. "This is the Spring of Honest Tears. Those who drink here must first empty their heart of all pretending."
+
+[[Ask how to empty his heart->Ask About Emptying Heart]]
+[[Try to drink without asking->Try To Drink Directly]]
+
+:: Ask About Emptying Heart
+"How do I do that?" asked Karim.
+
+"Simply tell the water your true feelings—all the ones you try to hide," the old woman replied.
+
+Karim knelt by the spring, feeling vulnerable but willing to try.
+
+[[Confess fears about failing->Confess Fears]]
+[[Confess doubts about being worthy->Confess Doubts]]
+[[Confess feeling alone and scared->Confess Loneliness]]
+
+:: Try To Drink Directly
+Karim reached for the spring water, hoping to quench his thirst quickly.
+
+But as his hands touched the water, it seemed to shrink away from him, rippling back until he couldn't reach it at all.
+
+The old woman shook her head. "The Spring of Honest Tears cannot be taken—it must be given. And it gives only to those who first give their honesty."
+
+Karim pulled back his hands, understanding.
+
+[[Ask how to empty his heart->Ask About Emptying Heart]]
+
+:: Confess Fears
+Karim knelt by the spring and whispered, "I'm afraid of failing. I'm afraid I'll never find the garden. I'm afraid I'll disappoint my grandfather and myself."
+
+Tears welled up in his eyes as he spoke these fears aloud for the first time. They fell into the spring, creating tiny ripples that spread outward.
+
+The old woman nodded approvingly. "Continue. Let all the fears come."
+
+[[Confess more tears->Complete Confession]]
+
+:: Confess Doubts
+Karim knelt by the spring and whispered, "I doubt I'm special enough for this journey. Sometimes I wonder if Grandfather chose me because I'm his grandson, not because I'm worthy."
+
+As he spoke these doubts, tears began to flow freely down his cheeks and into the water below.
+
+The old woman nodded encouragingly. "Yes, speak what's truly in your heart."
+
+[[Confess more tears->Complete Confession]]
+
+:: Confess Loneliness
+Karim knelt by the spring and whispered, "I feel so alone on this mountain. I'm scared of being by myself, and sometimes I pretend to be braver than I am."
+
+The tears came quickly now, dropping into the spring one after another.
+
+"Sometimes I wish someone else was making this journey with me," he continued, his voice breaking.
+
+The old woman nodded gently. "The truest journeys often feel the loneliest."
+
+[[Confess more tears->Complete Confession]]
+
+:: Complete Confession
+Karim continued to let his tears flow, speaking all the hidden fears and worries he had been carrying. With each word, he felt lighter, as if the darkness clinging to his clothes was dissolving.
+
+When at last he had no more tears to cry, the old woman smiled and handed him a cup.
+
+"Now you may drink."
+
+The water tasted like nothing Karim had ever experienced—cool and refreshing, yes, but also somehow true, like the taste of a perfect truth. As he drank, he felt the heaviness leave him completely.
+
+"Plant your seed here," said the woman, pointing to a patch of dark soil beside the spring.
+
+[[Plant the seed->Plant Seed First Spring]]
+
+:: Plant Seed First Spring
+Karim carefully took the black seed from the pouch around his neck and placed it in the earth beside the spring. He cupped his hands and brought water from the spring to moisten the soil.
+
+To his amazement, a tiny green shoot immediately appeared from the earth. As Karim watched, entranced, he noticed that a slender green thread stretched from the plant to his finger, connecting them.
+
+"Your journey has truly begun," said the woman. "When you feel lost, remember: the path begins with honesty."
+
+[[Thank the woman and continue->Continue After First Spring]]
+[[Ask about the thread connecting him to the plant->Ask About Thread]]
+
+:: Ask About Thread
+"What is this thread?" Karim asked, lifting his finger where the delicate green filament was attached.
+
+The old woman smiled. "It is the connection between your heart and what grows from it. As long as you remain true to yourself, this connection will never break."
+
+Karim studied the thread with wonder. "Will it stay connected as I climb higher?"
+
+"Throughout your entire journey," she assured him. "Now go, the next spring awaits."
+
+[[Thank the woman and continue->Continue After First Spring]]
+
+:: Continue After First Spring
+Thanking the woman for her guidance, Karim continued his journey up the mountain. He felt lighter now, and the green thread stretching from his finger to the planted seed seemed to give him strength.
+
+He climbed through the afternoon, higher and higher. That night, he slept under the stars, feeling more at peace than he had in a long time.
+
+The next morning, he continued his ascent. By midday, he came to a wide, silvery pool fed by a waterfall that seemed to cascade from the clouds themselves. The water was so still and clear that it reflected the sky perfectly—so perfectly that Karim couldn't tell where water ended and sky began.
+
+Beside the pool sat a boy about Karim's age, but dressed in clothes that shimmered like fish scales.
+
+[[Approach the boy->Approach Boy]]
+[[Examine the pool first->Examine Pool]]
+
+:: Approach Boy
+"Hello," said Karim. "Is this one of the four springs?"
+
+The boy smiled. "This is the Spring of Reflecting Light. Those who wish to drink here must first see themselves as they truly are."
+
+"That sounds easy enough," said Karim, approaching the water's edge.
+
+"Look carefully," advised the boy.
+
+[[Look into the pool->Look Into Pool]]
+
+:: Examine Pool
+Karim approached the pool cautiously. Its surface was mirror-like, reflecting the sky so perfectly it created the illusion that there was no water at all—just a window into another world.
+
+He noticed that the green thread connecting him to the first spring's plant stretched all the way here, disappearing into the silvery waters.
+
+After examining the pool, Karim turned to the boy sitting nearby.
+
+"Hello," he said. "Is this one of the four springs?"
+
+The boy nodded. "This is the Spring of Reflecting Light. Those who wish to drink here must first see themselves as they truly are."
+
+[[Look into the pool->Look Into Pool]]
+
+:: Look Into Pool
+Karim leaned over the pool, expecting to see his face. Instead, he saw images from his life playing across the surface like a moving picture—times he had been kind, times he had been selfish, moments of courage, moments of fear. He saw himself as others saw him, and also as he had never seen himself before.
+
+"Oh!" gasped Karim, nearly falling backward. "I never knew I looked like that on the inside!"
+
+The boy laughed, a sound like small bells. "None of us do, until we look in the right water."
+
+[[Ask about a specific memory shown->Ask About Memory]]
+[[Accept what he has seen->Accept Vision]]
+
+:: Ask About Memory
+"I saw myself being unkind to the baker's son last spring," Karim said, troubled by the memory. "I didn't think anyone noticed."
+
+The boy nodded. "The water shows what truly happened, not what we tell ourselves happened."
+
+"But I also saw times when I was braver than I thought I was," Karim added.
+
+"The water shows all truths, not just the ones that shame us," the boy replied. "Have you seen enough to know yourself now?"
+
+[[Yes, I've seen enough->Accept Vision]]
+[[Look deeper into the pool->Look Deeper]]
+
+:: Look Deeper
+Karim leaned closer to the water, wanting to understand more about himself. The images shifted, showing deeper patterns in his life—how his curiosity led him to both trouble and discovery, how his sensitivity brought both pain and insight.
+
+He saw the threads connecting all his experiences, and how each had shaped him into who he was now—a boy capable of making this journey.
+
+"I understand better now," Karim whispered, finally pulling back from the mesmerizing water.
+
+[[Accept what he has seen->Accept Vision]]
+
+:: Accept Vision
+"Now that you've seen yourself clearly," the boy said, "you may drink."
+
+Karim cupped his hands and drank from the spring. This water tasted like moonlight might taste—cool and silver and somehow making everything inside him feel washed clean.
+
+To his surprise, the green thread connected to his finger had grown and now reached into the pool. Where it touched the water, the little plant had grown taller, sprouting a white flower bud that glowed softly.
+
+"Your heart-plant grows," said the boy. "Two springs remain."
+
+[[Ask for directions to the next spring->Ask For Directions]]
+[[Thank the boy and continue->Continue After Second Spring]]
+
+:: Ask For Directions
+"Which way should I go to find the next spring?" Karim asked.
+
+The boy pointed up the mountain path. "Follow your thread. It will lead you true."
+
+Karim noticed that the green filament did indeed seem to stretch up the mountain, glowing faintly as if showing him the way.
+
+"Thank you," Karim said. "For the water and the wisdom."
+
+[[Continue After Second Spring]]
+
+:: Continue After Second Spring
+Karim continued his climb, following the path that wound ever upward. The journey was challenging, but he found new strength in the lessons of the springs. The thread connecting him to his growing plant seemed to pulse with life, guiding him onward.
+
+After climbing for another day, Karim reached a high plateau where the wind danced and swirled in playful patterns. In the center of the plateau was a spring unlike any he had seen before—its water leapt and jumped in tiny fountains, as if trying to join the wind in its dance.
+
+Here, a girl with hair that moved like wind-blown wheat sat playing a reed flute. The melody seemed to make the spring water jump even higher.
+
+[[Approach the girl->Approach Girl]]
+[[Listen to the music from a distance->Listen To Music]]
+
+:: Listen To Music
+Karim paused, captivated by the haunting melody. It seemed to speak directly to his heart, telling stories without words. The notes danced with the wind, creating patterns that reminded him of birds in flight and leaves in autumn.
+
+As he listened, Karim noticed that the water in the spring danced in perfect harmony with the music, leaping higher when the notes soared, rippling gently when the melody grew soft.
+
+After listening for a while, he approached the girl.
+
+[[Approach the girl->Approach Girl]]
+
+:: Approach Girl
+"That's beautiful music," Karim said as the girl paused her playing.
+
+She smiled, lowering her flute. "Welcome to the Spring of Whispering Winds. Those who drink here must first learn to listen to the quietest voice."
+
+"What voice is that?" asked Karim.
+
+"The one that speaks without words," she replied, smiling mysteriously. "Sit with me and be very still."
+
+[[Sit and try to listen->Sit And Listen]]
+[[Ask for more guidance first->Ask For Listening Guidance]]
+
+:: Ask For Listening Guidance
+"How will I know when I hear this voice?" Karim asked, uncertain.
+
+The girl's eyes twinkled. "It's different for everyone. Some hear it as music, others as a gentle hum. But all recognize it when it comes—it's the sound that feels most like home."
+
+Karim nodded, understanding a little better.
+
+[[Sit and try to listen->Sit And Listen]]
+
+:: Sit And Listen
+Karim sat cross-legged beside the girl. At first, all he heard was the wind and his own breathing. His mind raced with thoughts about his journey, the previous springs, and what might lie ahead.
+
+[[Focus on quieting the mind->Quiet Mind]]
+[[Try to listen beyond the wind->Listen Beyond Wind]]
+
+:: Quiet Mind
+Karim closed his eyes and focused on quieting his busy thoughts. He imagined them as leaves being gently blown away by the wind, leaving his mind clear and still.
+
+Gradually, as the chatter in his head subsided, he began to notice something else—a gentle humming that seemed to come from everywhere and nowhere.
+
+[[Listen to the humming->Hear Heart Voice]]
+
+:: Listen Beyond Wind
+Karim tried to listen beyond the sound of the wind, seeking something deeper. He focused on the spaces between sounds—the quiet moments between gusts, the pauses between notes of the girl's earlier melody.
+
+In those spaces, he gradually became aware of a gentle humming that seemed to resonate with something inside him.
+
+[[Listen to the humming->Hear Heart Voice]]
+
+:: Hear Heart Voice
+"I hear it!" he whispered excitedly. "It's like a song without words!"
+
+The girl nodded. "That's the voice of your own heart when it's not drowned out by louder thoughts. Now you may drink."
+
+This water tasted like the first breath of morning—fresh and full of possibility. It seemed to fizz with tiny bubbles of joy that rose from Karim's stomach all the way to his head, making his thoughts clearer and brighter.
+
+The green thread now stretched across the plateau, and where it met the spring, the plant had grown taller still. The white flower had opened to reveal golden-yellow petals that turned to follow the sun.
+
+"Your heart-garden blooms," said the girl. "Only one spring remains."
+
+[[Ask about the final spring->Ask About Final Spring]]
+[[Thank the girl and continue->Continue After Third Spring]]
+
+:: Ask About Final Spring
+"What should I expect at the final spring?" Karim asked.
+
+The girl twirled a strand of wheat-colored hair. "The final spring is the most challenging and the most rewarding. It asks for what we hold most dear."
+
+Karim frowned slightly. "That sounds difficult."
+
+"All worthy journeys are," she said simply. "But you've learned much already. Trust what the springs have taught you."
+
+[[Thank the girl and continue->Continue After Third Spring]]
+
+:: Continue After Third Spring
+Karim thanked the girl and continued his journey. The path grew steeper and more difficult as he climbed higher. The air became thin and sharp, making each breath a deliberate effort.
+
+Cold winds buffeted him, and several times he slipped on loose stones. But each time he felt like giving up, he would look at the thread connecting him to his growing plant, drawing strength from how far he had come.
+
+Just when he thought he couldn't take another step, he reached a small cave from which poured the most beautiful golden-red light he had ever seen.
+
+Inside the cave was a spring that glowed as if it contained liquid sunshine. Beside it sat not a person, but a small red bird with brilliant plumage.
+
+[[Approach the bird->Approach Bird]]
+[[Warm himself by the spring first->Warm By Spring]]
+
+:: Warm By Spring
+Exhausted from his climb, Karim moved closer to the glowing spring. Its warmth enveloped him immediately, easing his tired muscles and bringing feeling back to his cold fingers.
+
+After warming himself, he turned his attention to the small red bird watching him with bright, intelligent eyes.
+
+[[Approach the bird->Approach Bird]]
+
+:: Approach Bird
+"Small traveler," chirped the bird, "you have reached the Spring of Warm Light. Those who drink here must first give what they most wish to receive."
+
+Karim was surprised to hear the bird speak but responded respectfully. "I've come far to find this spring."
+
+The bird ruffled its feathers. "Indeed. And now you face the final test. Tell me, what do you most wish to receive?"
+
+[[Wish for knowledge->Wish Knowledge]]
+[[Wish for happiness->Wish Happiness]]
+[[Wish for connection->Wish Connection]]
+
+:: Wish Knowledge
+"I wish for knowledge," Karim said after thinking carefully. "To understand the world and my place in it."
+
+The bird cocked its head. "A worthy wish. Now you must give knowledge before you can receive it."
+
+Karim considered this challenge. What knowledge could he possibly offer?
+
+[[Share what he learned at the previous springs->Share Spring Lessons]]
+[[Share knowledge from his village->Share Village Knowledge]]
+
+:: Share Spring Lessons
+"I've learned that honesty lightens the heart," Karim began, "that seeing oneself clearly brings wisdom, and that listening to one's inner voice reveals truth."
+
+The bird hopped closer. "Good. Now go deeper."
+
+Karim closed his eyes, seeking deeper understanding. "Perhaps... knowledge isn't just facts we collect, but connections we make. Everything I've learned on this journey has changed me because I connected it to myself."
+
+The bird chirped approvingly. "You've given true knowledge. Now you may receive."
+
+[[Drink from the spring->Final Spring Drink]]
+
+:: Share Village Knowledge
+"In my village, we know how to predict rain by watching the flight of swallows," Karim said. "We know which herbs heal burns and which soothe fevers. We know stories that explain the stars."
+
+The bird seemed unimpressed. "These are facts, not knowledge."
+
+Karim thought harder. "Then perhaps knowledge is understanding that everything connects—the rain, the herbs, the stars, and us. Nothing exists alone."
+
+The bird's eyes brightened. "Now you begin to give true knowledge."
+
+[[Drink from the spring->Final Spring Drink]]
+
+:: Wish Happiness
+"I wish for happiness," Karim said. "To feel joy and contentment."
+
+The bird fluttered its wings. "A common wish. But first, you must give happiness before you can receive it."
+
+Karim frowned slightly. "How do I give happiness when I don't yet have it myself?"
+
+[[Try to make the bird happy->Make Bird Happy]]
+[[Remember times he made others happy->Remember Making Others Happy]]
+
+:: Make Bird Happy
+Karim thought about what might make the small red bird happy. He recalled how his grandfather's eyes lit up when Karim sang the old songs.
+
+Softly, he began to sing a village song about spring and new beginnings. His voice echoed sweetly in the cave.
+
+The bird swayed gently to the melody, its eyes half-closing in pleasure. When Karim finished, it chirped, "You've given happiness freely. Now you may receive."
+
+[[Drink from the spring->Final Spring Drink]]
+
+:: Remember Making Others Happy
+Karim closed his eyes and remembered times he had brought happiness to others—helping his mother with her weaving, telling stories to make his little cousin laugh, bringing water to an elderly neighbor.
+
+As these memories filled him, a smile spread across his face. "I realize now that I've always had happiness to give, even when I didn't feel happy myself."
+
+The bird bobbed its head. "To recognize the happiness you've already given is to become worthy of receiving more. You may drink."
+
+[[Drink from the spring->Final Spring Drink]]
+
+:: Wish Connection
+"I wish for connection," Karim said finally. "To feel that I belong to everything and everything belongs to me."
+
+"Then that is what you must give," said the bird.
+
+[[Try to connect with the bird->Connect With Bird]]
+[[Connect with everything around and within him->Connect With All]]
+
+:: Connect With Bird
+Karim looked directly at the small red bird, trying to see beyond its bright feathers to the being underneath. He imagined what it might be like to fly with delicate wings, to sing with a voice so small yet so clear, to see the world from high above.
+
+"I see you," he said softly. "Not just as a bird, but as a fellow traveler in this world. Different from me, yet connected."
+
+The bird's eyes gleamed. "You begin to understand. But connection reaches further still."
+
+[[Connect With All]]
+
+:: Connect With All
+Karim closed his eyes and imagined his heart growing bigger and bigger until it encompassed the mountain, the springs, his village, his grandfather, and all the creatures he had met. He imagined loving it all—the difficult parts of the journey as well as the beautiful ones, the fears as well as the joys.
+
+He felt the thread connecting him to his plant vibrate with energy, as if it were part of a vast web linking everything to everything else.
+
+"Yes," chirped the bird approvingly. "Now you may drink."
+
+[[Drink from the spring->Final Spring Drink]]
+
+:: Final Spring Drink
+Karim cupped his hands and drank from the glowing spring. This water tasted like the feeling of sitting by a warm fire on a cold night—comforting and glowing with inner warmth. As it filled him, Karim felt a strange sensation, as if his heart had caught fire—not a burning fire, but a warming one that spread through his entire body.
+
+The green thread now pulsed with golden light. Where it touched this final spring, the plant had transformed completely. The yellow flower had become a magnificent crimson rose that seemed to radiate love in visible waves.
+
+As Karim watched in wonder, the thread connecting him to the plant began to multiply, sending new green shoots in all directions.
+
+[[Watch the garden grow->Garden Grows]]
+
+:: Garden Grows
+The green shoots grew at an incredible pace, weaving together to form pathways, archways, and small clearings. Flowers of all colors burst into bloom—white lilies, yellow daffodils, and everywhere the crimson roses.
+
+Within minutes, Karim found himself standing in the center of the most beautiful garden he had ever imagined. The four springs had somehow come together here, forming a pattern like a star in the garden's center.
+
+"You've found it!" said a familiar voice. Karim turned to see his grandfather walking toward him along one of the garden paths.
+
+[[Run to grandfather->Meet Grandfather]]
+[[Ask how grandfather got there->Question Grandfather]]
+
+:: Meet Grandfather
+"Grandfather!" Karim cried, running to embrace the old man. The joy of seeing him here, in this magical place, overwhelmed all other questions.
+
+His grandfather hugged him tightly. "I'm so proud of you, Karim. You've completed the journey that many begin but few finish."
+
+"The garden is even more beautiful than I imagined," Karim said, looking around in wonder.
+
+[[Ask about the garden->Ask About Garden]]
+
+:: Question Grandfather
+"Grandfather! How did you get here?" Karim asked in astonishment.
+
+The old man's eyes twinkled. "I've always been here, waiting for you to arrive."
+
+"But I don't understand," said Karim. "I thought I was creating the garden by visiting the springs."
+
+[[Ask about the garden->Ask About Garden]]
+
+:: Ask About Garden
+"The garden was always here," said Grandfather gently. "It was just waiting for you to find the garden inside yourself first. The springs simply helped you clear away what was blocking your view."
+
+Karim looked around at the beautiful flowers, the crystal springs, and the woven paths. "Can anyone find this place?"
+
+"Everyone has their own garden to discover," said Grandfather. "And once found, it can never truly be lost again. Even when you return to the village, the garden will remain inside you."
+
+[[Ask about bringing others->Ask About Bringing Others]]
+[[Pick a rose to take home->Pick Rose]]
+
+:: Ask About Bringing Others
+"Can I bring others here?" asked Karim.
+
+Grandfather smiled. "You cannot bring them directly. But you can give them seeds from your roses, and guide them to the springs. Their journey must be their own, just as yours was."
+
+Karim nodded, understanding the wisdom in this.
+
+[[Pick a rose to take home->Pick Rose]]
+
+:: Pick Rose
+Karim carefully picked one of the crimson roses and found, in its center, a tiny black seed—just like the one his grandfather had given him.
+
+"I understand now," he said softly.
+
+As they walked together through the garden that was both around and within him, Karim realized that the true magic wasn't in finding a secret place, but in discovering that he had carried that place within his heart all along.
+
+"The entire universe is placed within the human being, and whoever knows himself, knows everything."  
+
+[[Return to the village with new wisdom->The End]]
+
+:: The End
+# Journey's End
+
+Karim returned to his village, but he was not the same boy who had left. The garden remained within him, growing and changing with each passing day. 
+
+And though he could not take others directly to the garden on the mountain, he could give them seeds from his roses—seeds of courage, honesty, clarity, and love—and guide them toward finding their own inner gardens.
+
+For he had learned the greatest secret of all: that the journey outward is always also a journey inward, and that the treasures we seek in the world are reflections of the treasures waiting to be discovered in our hearts.
+
+# The End
+
+[[Start Again?->Beginning]]
